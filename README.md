@@ -1,4 +1,4 @@
-# ThesisProject
+# Thesis Project - Дипломный проект
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dandreyanov/messaging_lk?style=flat-square) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dandreyanov/messaging_lk?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/dandreyanov/messaging_lk?style=flat-square)
 
