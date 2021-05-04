@@ -1,28 +1,29 @@
-# Thesis Project - Дипломный проект
-
-![GitHub repo size](https://img.shields.io/github/repo-size/dandreyanov/messaging_lk?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dandreyanov/messaging_lk?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/dandreyanov/messaging_lk?style=flat-square)
+# Thesis Project - Дипломный проект QA_GURU 4 Поток
 
 # Автотесты личного кабинета https://online.sberbank.ru/
 
 ## Stack:
 
-![Idea](files/stack/Idea.png)
 ![Java](files/stack/Java.png)
 ![JUnit5](files/stack/JUnit5.png)
 ![Allure_Report](files/stack/Allure_Report.png)
 ![Github](files/stack/Github.png)
 ![Selenide](files/stack/Selenide.png)
-![Gradle](files/stack/Gradle.png)!
-IntelliJ IDEA, Java, Selenide, Selenoid, Gradle, JUnit5, Allure SE, Allure TestOps, Github, Jenkins, Rest-Assured,
-Telegram (reports), Jira.
+![Gradle](files/stack/Gradle.png)
+
+IntelliJ IDEA, Java, Selenide, Gradle, JUnit5, Allure SE, Allure TestOps, Github, Jira.
 
 ## Infrastructure:
 
 ![Jenkins](files/stack/Jenkins.png)
 ![Selenoid](files/stack/Selenoid.png)
 ![Telegram](files/stack/Telegram.png)
+
+Jenkins, Selenoid,Telegram (reports),
+
+## Джоба в Jenkins для запуска тестов
+
+![Jenkins](files/stack/Jenkins_1.png)
 
 ## Видео о прохождении автотестов
 
@@ -32,7 +33,17 @@ Telegram (reports), Jira.
 
 ![Allure](files/Allure.png)
 
-## Добавлен бот для уведомления в Telegram
+![Allure](files/stack/Allure_1.png)
+
+![Allure](files/stack/Allure_2.png)
+
+## Создан отчёт Allure TestOps EE
+
+![Allure](files/stack/AllureOps_1.png)
+
+![Allure](files/stack/AllureOps_2.png)
+
+## Добавлен бот для уведомлений в Telegram
 
 ![Telegram](files/telegram.png)
 
