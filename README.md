@@ -1,8 +1,21 @@
-# Thesis Project - Дипломный проект QA_GURU 4 Поток
+# Thesis Project - QA_GURU 4 Stream
 
-# Автотесты личного кабинета https://online.sberbank.ru/
+# Personal account autotests https://online.sberbank.ru/
 
-## Stack:
+## Scope:
+
+### UI tests:
+
+- [X] 
+    - Main page layout
+- [X] 
+    - Log in via UI
+- [X] 
+    - Authorization with various invalid passwords
+- [X] 
+    - Checking UI elements
+
+## Technology Stack:
 
 ![Java](files/stack/Java.png)
 ![JUnit5](files/stack/JUnit5.png)
@@ -21,15 +34,15 @@ IntelliJ IDEA, Java, Selenide, Gradle, JUnit5, Allure SE, Allure TestOps, Github
 
 Jenkins, Selenoid,Telegram (reports),
 
-## Джоба в Jenkins для запуска тестов
+## Job in Jenkins to run parameterized tests on a schedule
 
 ![Jenkins](files/stack/Jenkins_1.png)
 
-## Видео о прохождении автотестов
+## Video about passing autotests
 
 ![Video](files/video1.gif)
 
-## Создан отчёт Allure
+## Create an Allure report
 
 ![Allure](files/Allure.png)
 
@@ -37,15 +50,21 @@ Jenkins, Selenoid,Telegram (reports),
 
 ![Allure](files/stack/Allure_2.png)
 
-## Создан отчёт Allure TestOps EE
+## Create an Allure TestOps EE
 
 ![Allure](files/stack/AllureOps_1.png)
 
 ![Allure](files/stack/AllureOps_2.png)
 
-## Добавлен бот для уведомлений в Telegram
+## Jira integration
+
+![Lira](files/stack/Jira.png)
+
+## Added bot for Telegram notifications
 
 ![Telegram](files/telegram.png)
+
+### Сontact with me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/LukeSkyQA)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-0b0a1a?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/johncoffeee)
