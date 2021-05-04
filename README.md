@@ -3,17 +3,12 @@
 # Personal account autotests https://online.sberbank.ru/
 
 ## Scope:
-
 ### UI tests:
 
-- [X] 
-    - Main page layout
-- [X] 
-    - Log in via UI
-- [X] 
-    - Authorization with various invalid passwords
-- [X] 
-    - Checking UI elements
+- [X]  Main page layout
+- [X] Log in via UI
+- [X] Authorization with various invalid passwords
+- [X] Checking UI elements
 
 ## Technology Stack:
 
