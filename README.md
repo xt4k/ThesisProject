@@ -8,7 +8,7 @@
 
 ## Stack:
 
-![Idea](files/stack/idea.png)
+![Idea](files/stack/Idea.png)
 ![Java](files/stack/Java.png)
 ![JUnit5](files/stack/JUnit5.png)
 ![Allure_Report](files/stack/Allure_Report.png)
