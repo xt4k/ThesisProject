@@ -19,7 +19,7 @@
 ![Selenide](files/stack/Selenide.png)
 ![Gradle](files/stack/Gradle.png)
 
-IntelliJ IDEA, Java, Selenide, Gradle, JUnit5, Allure SE, Allure TestOps, Github, Jira.
+IntelliJ IDEA, Java, Selenide, Gradle, JUnit5, Allure SE, Allure TestOps, Github, Jira
 
 ## Infrastructure:
 
@@ -27,7 +27,7 @@ IntelliJ IDEA, Java, Selenide, Gradle, JUnit5, Allure SE, Allure TestOps, Github
 ![Selenoid](files/stack/Selenoid.png)
 ![Telegram](files/stack/Telegram.png)
 
-Jenkins, Selenoid,Telegram (reports),
+Jenkins, Selenoid,Telegram (additional notifications)
 
 ## Job in Jenkins to run parameterized tests on a schedule
 
