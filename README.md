@@ -1,8 +1,25 @@
 # Thesis Project - Дипломный проект
 
-![GitHub repo size](https://img.shields.io/github/repo-size/dandreyanov/messaging_lk?style=flat-square) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dandreyanov/messaging_lk?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/dandreyanov/messaging_lk?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/dandreyanov/messaging_lk?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dandreyanov/messaging_lk?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/dandreyanov/messaging_lk?style=flat-square)
 
 # Автотесты личного кабинета https://online.sberbank.ru/
+
+## Stack:
+
+![Java](files/stack/Java.png)
+![JUnit5](files/stack/JUnit5.png)
+![Allure_Report](files/stack/Allure_Report.png)
+![Github](files/stack/Github.png)
+![Selenide](files/stack/Selenide.png)
+![Gradle](files/stack/Gradle.png)!
+
+## Infrastructure:
+
+![Jenkins](files/stack/Jenkins.png)
+![Selenoid](files/stack/Selenoid.png)
+![Telegram](files/stack/Telegram.png)
 
 ## Видео о прохождении автотестов
 
@@ -16,4 +33,5 @@
 
 ![Telegram](files/telegram.png)
 
-![Selenide](files/stack/Selenide.png)![Gradle](files/stack/Gradle.png)![Java](files/stack/Java.png)![JUnit5](files/stack/JUnit5.png)![Allure_Report](files/stack/Allure_Report.png)![Jenkins](files/stack/Jenkins.png)![Github](files/stack/Github.png)![Telegram](files/stack/Telegram.png)
+[![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/LukeSkyQA)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-0b0a1a?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/johncoffeee)
