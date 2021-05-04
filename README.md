@@ -35,11 +35,11 @@ Jenkins, Selenoid,Telegram (reports),
 
 ## Video about passing autotests
 
-![Video](files/video1.gif)
+![Video](files/stack/video1.gif)
 
 ## Create an Allure report
 
-![Allure](files/Allure.png)
+![Allure](files/stack/Allure.png)
 
 ![Allure](files/stack/Allure_1.png)
 
@@ -57,7 +57,7 @@ Jenkins, Selenoid,Telegram (reports),
 
 ## Added bot for Telegram notifications
 
-![Telegram](files/telegram.png)
+![Telegram](files/stack/telegram_1.png)
 
 ### Сontact with me
 
