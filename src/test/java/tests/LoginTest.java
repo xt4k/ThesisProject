@@ -1,6 +1,8 @@
 package tests;
 
 import config.ConfigHelper;
+import customAnnotations.JiraIssue;
+import customAnnotations.JiraIssues;
 import io.qameta.allure.Feature;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
@@ -14,6 +16,7 @@ import static pages.MainPage.unsuccessfulNotification;
 
 @Tag("web")
 @Feature("Login tests")
+@JiraIssues({@JiraIssue("AUTO-143")})
 public class LoginTest extends TestBase {
 
     @Test

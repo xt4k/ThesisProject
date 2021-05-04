@@ -1,6 +1,8 @@
 package tests;
 
 import com.codeborne.selenide.WebDriverRunner;
+import customAnnotations.JiraIssue;
+import customAnnotations.JiraIssues;
 import io.qameta.allure.Feature;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
@@ -19,6 +21,7 @@ import static pages.MainPage.*;
 
 @Feature("Main page content")
 @Tag("web")
+@JiraIssues({@JiraIssue("AUTO-143")})
 public class MainPageTest extends TestBase {
 
     @Test

@@ -8,12 +8,15 @@
 
 ## Stack:
 
+![Idea](files/stack/idea.png)
 ![Java](files/stack/Java.png)
 ![JUnit5](files/stack/JUnit5.png)
 ![Allure_Report](files/stack/Allure_Report.png)
 ![Github](files/stack/Github.png)
 ![Selenide](files/stack/Selenide.png)
 ![Gradle](files/stack/Gradle.png)!
+IntelliJ IDEA, Java, Selenide, Selenoid, Gradle, JUnit5, Allure SE, Allure TestOps, Github, Jenkins, Rest-Assured,
+Telegram (reports), Jira.
 
 ## Infrastructure:
 
